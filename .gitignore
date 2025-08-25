@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit sensitive files
+.streamlit/credentials.toml
+.streamlit/secrets.toml
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
