@@ -3,3 +3,4 @@ speechbrain
 torchaudio
 plotly
 numpy
+pydub
