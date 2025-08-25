@@ -1,7 +1,9 @@
 [server]
-maxUploadSize = 50
+headless = true
 port = 8501
-headless = false
+address = "0.0.0.0"
+enableCORS = false
+
 
 [theme]
 primaryColor = "#667eea"
