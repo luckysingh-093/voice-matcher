@@ -1,6 +1,9 @@
-streamlit
-speechbrain
-torchaudio
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.2.2
+torchaudio==2.2.2
+speechbrain==0.5.16
+streamlit==1.37.0
+pydub
 plotly
 numpy
-pydub
