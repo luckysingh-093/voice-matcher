@@ -1,6 +1,7 @@
 # Voice Matcher - Audio Forensics 🎙️🔊
 
 An AI-powered voice comparison app built with **Streamlit** and **SpeechBrain**.
+Deployed version: https://voice-matcher.streamlit.app/
 
 ## 🚀 Features
 
