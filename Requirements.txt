@@ -7,3 +7,4 @@ streamlit==1.37.0
 pydub
 plotly
 numpy
+ffmpeg-python
