@@ -241,8 +241,7 @@ if suspect and evidence:
                 convert_to_wav(suspect_io, suspect_filename)
                 convert_to_wav(evidence_io, evidence_filename)
 
-                """waveform1, sr1 = torchaudio.load(suspect_io)
-                waveform2, sr2 = torchaudio.load(evidence_io)"""
+            
                 
                 # Step 3: Preparing for analysis
                 status_text.text(" Preparing for neural network analysis...")
